@@ -1,0 +1,10 @@
+{
+  "description": "Create customizable Flutter page components effortlessly, enabling developers to streamline their app design process and enhance user experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
